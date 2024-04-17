@@ -1,0 +1,18 @@
+{
+    "sourceFile": "package.json",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1713175219772,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1713175219772,
+            "name": "Commit-0",
+            "content": "{\n  \"name\": \"tailwind-css-one\",\n  \"version\": \"1.0.0\",\n  \"description\": \"\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n      \"build-css\":\"tailwindcss build src/styles.css -o public/styles.css\"\n  },\n  \"keywords\": [],\n  \"author\": \"\",\n  \"license\": \"ISC\",\n  \"dependencies\": {\n    \"tailwindcss\": \"^3.4.3\"\n  }\n}\n"
+        }
+    ]
+}
